@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color:#f7e5c2 ;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card1, .card2 {
+  width: 300px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.seeda{
+    background-color: rgb(64, 224, 208);
+    color: white;
+    cursor: pointer;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.gawm{
+background-color: rgb(64, 224, 208);
+    color: white;
+    cursor: pointer;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    padding: 10px 20px;
+    border-radius: 8px;
+
+}
+
+h1 {
+        color: rgb(107, 79, 63);
+}
