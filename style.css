@@ -4,13 +4,13 @@ body {
   background-color:#f7e5c2 ;
 }
 
-.container {
+.container, .container01 {
   display: flex;
   justify-content: center;
   gap: 20px;
 }
 
-.card1, .card2 {
+.card1, .card2, .card3, .card4, .card5, .card01, .card02 {
   width: 300px;
   padding: 15px;
   background-color: white;
@@ -50,3 +50,4 @@ background-color: rgb(64, 224, 208);
 h1 {
         color: rgb(107, 79, 63);
 }
+
